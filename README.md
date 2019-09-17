@@ -1,4 +1,4 @@
-# 中文命名实体识别  
+# 中文命名实体识别  参考：https://github.com/luopeixiang/named_entity_recognition
 
 
 
@@ -64,9 +64,6 @@ python3 main.py
 ```shell
 python3 test.py
 ```
-
-下面是这些模型的简单介绍（github网页对数学公式的支持不太好，涉及公式的部分无法正常显示，[我的博客](https://zhuanlan.zhihu.com/p/61227299)  有对这些模型以及代码更加详细的介绍）：
-
 
 
 ## 隐马尔可夫模型（Hidden Markov Model，HMM）维特比算法：https://zhuanlan.zhihu.com/p/63087935	 
