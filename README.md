@@ -68,7 +68,9 @@ python3 test.py
 ```
 
 
-## 隐马尔可夫模型（Hidden Markov Model，HMM）维特比算法：https://zhuanlan.zhihu.com/p/63087935	 
+## 隐马尔可夫模型（Hidden Markov Model，HMM）
+
+### 维特比算法：https://zhuanlan.zhihu.com/p/63087935	 
 
 隐马尔可夫模型描述由一个隐藏的马尔科夫链随机生成不可观测的状态随机序列，再由各个状态生成一个观测而产生观测随机序列的过程（李航 统计学习方法）。隐马尔可夫模型由初始状态分布，状态转移概率矩阵以及观测概率矩阵所确定。
 
